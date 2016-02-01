@@ -1,1 +1,1 @@
-basic flexbox design and styling
+basic flexbox structure and styling
